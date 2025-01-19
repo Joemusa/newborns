@@ -1,4 +1,4 @@
-# Data Scientist
+# Anrgentina's Newborn Name Analysis
 
 ### Education
 Bsc. Mathematics and Applied Mathematics
