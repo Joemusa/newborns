@@ -12,5 +12,6 @@ The project is to analyse the names given to new born babies in Argentina. Data 
 ## Uniqueness of names given to newborn babies
 ![Uniqueness](https://github.com/Joemusa/newborns/blob/main/images/Uniqueness.jpg)
 ![UniquenessChart](https://github.com/Joemusa/newborns/blob/main/images/UniquenessChart.jpg)
-#### Cleaing the data
+#### Diego Maradona effect in naming newborn babies
+![DiegoEffect]()
 Rows with empty cells under the 'name' column were deleted from the data set. 
