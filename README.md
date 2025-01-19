@@ -7,7 +7,7 @@ The project is to analyse the names given to new born babies in Argentina. Data 
 ![Explore2](https://github.com/Joemusa/newborns/blob/main/images/Understanding%20the%20data.jpg)
 ### Data Analysis
 ![Newborn](https://github.com/Joemusa/newborns/blob/main/images/neborn_year.jpg)
-![]
+![PopularName](https://github.com/Joemusa/newborns/blob/main/images/MostpopularName.jpg)
 
 #### Cleaing the data
 Rows with empty cells under the 'name' column were deleted from the data set. 
