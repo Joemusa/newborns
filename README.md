@@ -5,6 +5,8 @@ The project is to analyse the names given to new born babies in Argentina. Data 
 ### Data Exploration
 ![Explore](https://github.com/Joemusa/newborns/blob/main/images/Imports%2BRead.jpg)
 ![Explore2](https://github.com/Joemusa/newborns/blob/main/images/Understanding%20the%20data.jpg)
+### Data Cleaning
+![DataCleaning]()
 ### Data Analysis
 ![Newborn](https://github.com/Joemusa/newborns/blob/main/images/neborn_year.jpg)
 ![PopularName](https://github.com/Joemusa/newborns/blob/main/images/MostpopularName.jpg)
